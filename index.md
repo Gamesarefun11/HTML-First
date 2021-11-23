@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+![HTML First](https://user-images.githubusercontent.com/94478022/143102590-1f00b386-4adc-491a-8d27-dc732583cde8.png)
 
-You can use the [editor on GitHub](https://github.com/Gamesarefun11/HTML-First/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Lesson 1 - What Is HTML
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ HTML is short for Hypertext Markup Languge.
+ It is used for creating web pages. 
+ It uses text instead of blocks.
+ We will also learn CSS (Castcading Stylesheets) and some JavaScript.
 
-### Markdown
+ ## The Basics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gamesarefun11/HTML-First/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  We are finally in the basics, open [texteditor.co](https://texteditor.co/) on your computer
+  to start. 
+ Now write:
+ 
+ ```
+ <!DOCTYPE html>
+ <!--the doctype html will start the code-->
+ 
+ <head>
+  <title>
+  My HTML Page
+  </title>
+  <meta charset="UTF-8">
+ </head>
+ <body>
+ </body>
+ 
+ ```
+ This is the basic html code.
