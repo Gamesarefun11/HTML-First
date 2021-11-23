@@ -28,3 +28,40 @@
  
  ```
  This is the basic html code.
+
+# Lesson 1 Part 3 - Text
+
+Now Write in between ``` <body> ``` and ``` </body> ```:
+
+```
+<h1>This is a heading</h1>
+<p>Write anything in here</p>
+
+```
+
+Your code should look like this:
+
+```
+
+ <!DOCTYPE html>
+ <!--the doctype html will start the code-->
+ 
+ <head>
+  <title>
+  My HTML Page
+  </title>
+  <meta charset="UTF-8">
+ </head>
+ <body>
+ <h1>This is a heading</h1>
+<p>Write anything in here</p> 
+</body>
+ 
+ ```
+ # Mini Lesson 1 - More Text
+ 
+ Congrats! You finished the first lesson!
+ Now in your file, type inside the p (paragraph) anything you want.
+ 
+ 
+ 
