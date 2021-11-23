@@ -7,7 +7,8 @@
  It uses text instead of blocks.
  We will also learn CSS (Castcading Stylesheets) and some JavaScript.
 
- # Lesson 1 Part 2 - The Basics
+# Lesson 1 Part 2 - The Basics
+
 
   We are finally in the basics, open [texteditor.co](https://texteditor.co/) on your computer
   to start. 
