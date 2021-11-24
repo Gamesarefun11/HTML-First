@@ -15,8 +15,9 @@
  ```
  <!DOCTYPE html>
  <!--the doctype html will start the code-->
- 
+ <html>
  <head>
+ <!---head, title, html, and body are tags-->
   <title>
   My HTML Page
   </title>
@@ -24,7 +25,7 @@
  </head>
  <body>
  </body>
- 
+ </html>
  ```
  This is the basic html code.
 
