@@ -57,7 +57,7 @@ Your code should look like this:
 </body>
  
  ```
- # Mini Lesson 1 - More Text
+ # Lesson 2 - CSS
  
  
  Congrats! You finished the first lesson!
