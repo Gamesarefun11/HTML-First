@@ -57,11 +57,9 @@ Your code should look like this:
 </body>
  
  ```
- # Lesson 2 - CSS
+ # ~~Lesson 2 - CSS~~
  
- 
- Congrats! You finished the first lesson!
- Now in your file, type inside the p (paragraph) anything you want.
+
  
  
  
