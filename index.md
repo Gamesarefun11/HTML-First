@@ -5,7 +5,7 @@
  HTML is short for Hypertext Markup Languge.
  It is used for creating web pages. 
  It uses text instead of blocks.
- We will also learn CSS (Castcading Stylesheets) and some JavaScript.
+ We will also learn CSS (Castcading Stylesheets).
 
 
   We are finally in the basics, open [texteditor.co](https://texteditor.co/) on your computer
@@ -43,10 +43,11 @@ Your code should look like this:
 
 ```
 
- <!DOCTYPE html>
+<!DOCTYPE html>
  <!--the doctype html will start the code-->
- 
+ <html>
  <head>
+ <!---head, title, html, and body are tags-->
   <title>
   My HTML Page
   </title>
@@ -54,8 +55,8 @@ Your code should look like this:
  </head>
  <body>
  <h1>This is a heading</h1>
-<p>Write anything in here</p> 
-</body>
+<p>Write anything in here</p> </body>
+ </html>
  
  ```
  # ~~Lesson 2 - CSS~~
