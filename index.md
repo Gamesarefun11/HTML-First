@@ -175,3 +175,27 @@ font-family: Monospace;
  
 ```
 
+# Mini Lesson 1 - Bold and itailc
+
+Write in a new file:
+
+```
+<!DOCTYPE html>
+ 
+ <html>
+ <head>
+  <title>
+  My HTML Page 3
+  </title>
+  <meta charset="UTF-8">
+ </head>
+ <body>
+
+
+<b>Bold text</b>
+</body>
+ </html>
+
+```
+
+Does it look **bold?**
