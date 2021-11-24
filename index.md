@@ -59,6 +59,7 @@ Your code should look like this:
  ```
  # Mini Lesson 1 - More Text
  
+ 
  Congrats! You finished the first lesson!
  Now in your file, type inside the p (paragraph) anything you want.
  
