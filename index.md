@@ -5,7 +5,7 @@
  HTML is short for Hypertext Markup Languge.
  It is used for creating web pages. 
  It uses text instead of blocks.
- We will also learn CSS (Castcading Stylesheets) and some JavaScript.
+ We will also learn CSS (Castcading Stylesheets).
 
 
   We are finally in the basics, open [texteditor.co](https://texteditor.co/) on your computer
@@ -15,8 +15,9 @@
  ```
  <!DOCTYPE html>
  <!--the doctype html will start the code-->
- 
+ <html>
  <head>
+ <!---head, title, html, and body are tags-->
   <title>
   My HTML Page
   </title>
@@ -24,7 +25,7 @@
  </head>
  <body>
  </body>
- 
+ </html>
  ```
  This is the basic html code.
 
@@ -42,10 +43,11 @@ Your code should look like this:
 
 ```
 
- <!DOCTYPE html>
+<!DOCTYPE html>
  <!--the doctype html will start the code-->
- 
+ <html>
  <head>
+ <!---head, title, html, and body are tags-->
   <title>
   My HTML Page
   </title>
@@ -53,15 +55,123 @@ Your code should look like this:
  </head>
  <body>
  <h1>This is a heading</h1>
-<p>Write anything in here</p> 
-</body>
+<p>Write anything in here</p> </body>
+ </html>
  
  ```
- # Mini Lesson 1 - More Text
+ # Lesson 2 Part 1 - Advanced HTML
  
+
+ Open a new file on your computer and write:
  
- Congrats! You finished the first lesson!
- Now in your file, type inside the p (paragraph) anything you want.
+ ```
+ <!DOCTYPE html>
  
+ <html>
+ <head>
+  <title>
+  My HTML Page 2
+  </title>
+  <meta charset="UTF-8">
+ </head>
+ <body>
+ <!--table-->
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+<hr>
+<!--hyperlink-->
+<a href="https://google.com">Google</a>
+
+<p>hello world!</p>
+</body>
+ </html>
  
+  
+ ```
  
+A table and a link should be on your browser
+
+
+
+# Lesson 2 Part 2 - CSS
+
+Now we are at CSS.
+
+Write inside the body tag:
+
+
+```
+<!--start CSS-->
+<style>
+p { 
+font-family: Monospace;
+}
+</style>
+
+
+```
+
+Your code should be like this:
+
+```
+
+<!DOCTYPE html>
+ 
+ <html>
+ <head>
+  <title>
+  My HTML Page 2
+  </title>
+  <meta charset="UTF-8">
+ </head>
+ <body>
+ <!--start CSS-->
+<style>
+p { 
+font-family: Monospace;
+}
+
+</style> 
+<!--table-->
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+<hr>
+<!--hyperlink-->
+<a href="https://google.com">Google</a>
+
+<p>hello world!</p>
+</body>
+ </html>
+ 
+```
+
