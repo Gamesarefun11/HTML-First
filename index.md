@@ -59,9 +59,119 @@ Your code should look like this:
  </html>
  
  ```
- # ~~Lesson 2 - CSS~~
+ # Lesson 2 Part 1 - Advanced HTML
  
 
+ Open a new file on your computer and write:
  
+ ```
+ <!DOCTYPE html>
  
+ <html>
+ <head>
+  <title>
+  My HTML Page 2
+  </title>
+  <meta charset="UTF-8">
+ </head>
+ <body>
+ <!--table-->
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+<hr>
+<!--hyperlink-->
+<a href="https://google.com">Google</a>
+
+<p>hello world!</p>
+</body>
+ </html>
  
+  
+ ```
+ 
+A table and a link should be on your browser
+
+
+
+# Lesson 2 Part 2 - CSS
+
+Now we are at CSS.
+
+Write inside the body tag:
+
+
+```
+<!--start CSS-->
+<style>
+p { 
+font-family: Monospace;
+}
+</style>
+
+
+```
+
+Your code should be like this:
+
+```
+
+<!DOCTYPE html>
+ 
+ <html>
+ <head>
+  <title>
+  My HTML Page 2
+  </title>
+  <meta charset="UTF-8">
+ </head>
+ <body>
+ <!--start CSS-->
+<style>
+p { 
+font-family: Monospace;
+}
+
+</style> 
+<!--table-->
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+<hr>
+<!--hyperlink-->
+<a href="https://google.com">Google</a>
+
+<p>hello world!</p>
+</body>
+ </html>
+ 
+```
+
