@@ -201,3 +201,10 @@ Write in a new file:
 ```
 
 Does it look **bold?**
+
+# Lesson 3 The Big Stuff
+
+time to cranck it up.
+
+try recreating github!
+
